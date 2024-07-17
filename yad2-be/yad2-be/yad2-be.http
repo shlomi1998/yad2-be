@@ -1,4 +1,4 @@
-@yad2_be_HostAddress = http://localhost:5265
+@yad2_be_HostAddress = http://localhost:5067
 
 GET {{yad2_be_HostAddress}}/weatherforecast/
 Accept: application/json
